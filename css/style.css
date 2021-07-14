@@ -3,7 +3,9 @@
     src: url('../fonts/RobotoMono-Thin.ttf');
   }
   
- 
+* {
+    font-family: 'Roboto', sans-serif;
+}
 
 body {
     display: flex;
